@@ -1,0 +1,5 @@
+# Python dependencies for the included research/example scripts
+torch
+transformers
+tokenizers
+requests
